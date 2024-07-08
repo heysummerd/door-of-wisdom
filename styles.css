@@ -1,0 +1,11 @@
+#home-title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: xxx-large;
+  color: seagreen;
+  text-emphasis: bold;
+}
+
+body.home {
+  background-color: rgb(88, 192, 157);
+  text-align: center;
+}
