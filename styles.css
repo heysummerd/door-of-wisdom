@@ -17,8 +17,9 @@ img.home {
 
 #keanu {
   width: 500px;
+  border-radius: 50%;
 }
 
-#peaceful {
-  cursor: url(./images/cursor-peaceful.png) 4 4;
+em {
+  font-style: italic;
 }
