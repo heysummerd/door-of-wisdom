@@ -11,9 +11,14 @@ body {
 }
 
 img.home {
+  cursor: help;
   width: 55%;
 }
 
 #keanu {
   width: 500px;
+}
+
+#peaceful {
+  cursor: url(./images/cursor-peaceful.png) 4 4;
 }
