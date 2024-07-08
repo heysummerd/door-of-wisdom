@@ -9,3 +9,7 @@ body.home {
   background-color: rgb(88, 192, 157);
   text-align: center;
 }
+
+img.home {
+  width: 55%;
+}
