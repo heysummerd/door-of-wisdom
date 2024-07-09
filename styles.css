@@ -18,6 +18,26 @@ img.home {
 #keanu {
   width: 500px;
   border-radius: 50%;
+
+  animation-name: kthinks;
+  animation-duration: 5s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-direction: forwards;
+  animation-play-state: running;
+}
+
+@keyframes kthinks {
+  from {
+    width: 200px;
+    border-radius: 50%;
+  }
+
+  to {
+    width: 500px;
+    border-radius: 50%;
+  }
 }
 
 em {
