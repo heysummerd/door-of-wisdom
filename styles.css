@@ -52,8 +52,8 @@ em {
   border: 10px solid blue;
   height: 2490px;
   position: relative;
-  display: column;
-  flex-direction: row;
+  display: flex;
+  flex-direction: column;
   justify-content: space-around;
 }
 
