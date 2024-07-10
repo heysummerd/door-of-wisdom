@@ -15,6 +15,10 @@ img.home {
   width: 55%;
 }
 
+.home p {
+  font-size: x-small;
+}
+
 #keanu {
   width: 500px;
   border-radius: 50%;
@@ -42,4 +46,41 @@ img.home {
 
 em {
   font-style: italic;
+}
+
+.mat {
+  border: 10px solid blue;
+  height: 2490px;
+  position: relative;
+  display: column;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#you {
+  position: sticky;
+  top: 0px;
+  border: 5px solid red;
+  padding: 10px;
+}
+
+#are {
+  position: sticky;
+  top: 80px;
+  border: 5px solid orange;
+  padding: 10px;
+}
+
+#doing {
+  position: sticky;
+  top: 160px;
+  border: 5px solid yellow;
+  padding: 10px;
+}
+
+#great {
+  position: sticky;
+  top: 240px;
+  border: 5px solid green;
+  padding: 10px;
 }
